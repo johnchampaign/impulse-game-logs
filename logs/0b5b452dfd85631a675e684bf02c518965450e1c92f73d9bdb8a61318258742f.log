@@ -1,0 +1,42 @@
+# impulse log opened 2026-05-03T18:31:26.4951130-04:00
+# resumed from snapshot — turn 6, active P1
+[state turn=6 active=1] H4sIAAAAAAAACr2US2/bMBCE/8ue58Dlm7oZCZAEfcRIil4MoVAkJhZiS4EkJwgC//dCfjRSYTU9FD0S/DicnV3yjb7Hpi3rihIG3cZYUMKChXRBMmi+yl5jc1Zvqo4SCZqV83pV5mVsKVnQRRNj8Uop6GzTNLHqvm2aihILmuVd+Rz3p3fK82XWRkpoVhRX66fNqo0EumovsnW8fu6Z+2zVRtBlvY7zMn9sz+sqUtI1mwg6nDjbNG3dUKJB5zF/pGShBRTDBCiPwAiQCsohSHgH7WHhJLyB1DAO1iBosIFnOAUlYWA0dICC03AWSsEGeA9n4C00JKyH8WCNIMAC0sMLMKeg87LNs6agZMGCwcLCGEgHpeEEZI8rWAWv4CAtOMA5GAEtYQUsIwSwhzTwEsaChYBmOIZ20ApswQ7Og2FU+isGShYqQBmwkCnodlk+9d14o+uX6pD2p7IqKKGqLnYxF5SELf4ekKcANh8S8iTxkHVHQpoPCXvS6JCQ/4lIQV/rIp5lTbHPt1/t6gTddj2aUFG/VATqmX7H7VI8cnKS03rIqUlOjvT0JBf8kDPv3OZpQBkeUnZSzY7cuUnOyCHnJ25lMSoiTGEjMRbvWF43kUabPKWhRpicwPzIEE/HH9wI/EP+ZgRONcCPgmU7hY2o6fz1+FY/3dBxtmG6DtVP/f7b3s/8Yd5vsvw40vMmtl35EA9N6n+f2XNWrrK7VdxN1WXWP6ZF6D80DxZuL1lRskhBX8oqNtmqV2ehoWwK+hzvO0rejs/wLmvL/Eder9d1RVvQTfmwHO43sY1Zky9jMbCuxLYv8mDy6FcP/fZ1/2bX/7JrHWzv5aRTKaH/lVEWZrtNtz8BM/b0EXkHAAA=
+— P1 turn 6 phase AddImpulse
+P1 places #107 (Refine/Green/1) at bottom of Impulse
+  Phase2: P1 uses tech Left (BasicCommon)
+P1 discards #96
+  ⚔ Battle at G25: P1 (4 cruisers) attacks P2
+  ⚔ P2 reinforces with #67
+  ⚔ P2 reinforces with #66
+  ⚔ P1 reinforces with #108
+  ⚔ P2 BLUFF revealed #66 (Green/2) — returned to hand
+  ⚔ P2 draws cruiser-card #40 (Yellow/2)
+  ⚔ P1 draws cruiser-card #31 (Yellow/1)
+  ⚔ P1 draws cruiser-card #59 (Blue/1)
+  ⚔ P1 draws cruiser-card #38 (Yellow/1)
+  ⚔ P1 draws cruiser-card #91 (Yellow/3)
+  ⚔ Totals: P1=7 vs P2=3
+  ⚔ Winner: P1
+P2's ship at G25 destroyed (returned to pool)
+P1 moves ship G22 → G25
+P1 moves ship G22 → G25
+P1 moves ship G22 → G25
+P1 moves ship G22 → G25
++1 prestige (BattleWon) → P1 total 11
++1 prestige (ShipsDestroyed) → P1 total 12
+!! BATTLE RESULT @ G25
+
+Attacker: P1 (4 cruisers)
+  reinforcements: #108 (Yellow/1)
+  cruiser draws:  #31 (Yellow/1), #59 (Blue/1), #38 (Yellow/1), #91 (Yellow/3)
+  total icons:    7
+
+Defender: P2
+  reinforcements: #67 (Green/1)
+  bluffs (returned): #66 (Green/2)
+  cruiser draws:  #40 (Yellow/2)
+  total icons:    3
+
+Winner: P1 (+1 prestige for the win, +1 per ship destroyed).
+Ships destroyed: 1.
+P1 prestige now 12.
