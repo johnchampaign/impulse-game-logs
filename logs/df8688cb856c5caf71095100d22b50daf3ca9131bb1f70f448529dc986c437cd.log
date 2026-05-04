@@ -1,0 +1,121 @@
+# impulse log opened 2026-05-03T17:55:02.0493603-04:00
+# resumed from snapshot — turn 5, active P1
+[state turn=5 active=1] H4sIAAAAAAAACr2VSU/cQBCF/0ud36H3xbcRSICyMIIol5EVGbsBC49N7DEoQvPfo54NO8EBoig32/V11+tXVe4n+hrarmxqSjjoMoSCEm+N5ZY70LzKfoT2qOnrFSUCNCvnTVXmZegoWdBJG0Lxg1LQUd+2oV596duaEg2a5avyIWxXbzae32ZdoIRmRXG2vO+rLhDorDvJluH8ITLXWdUF0GmzDPMyv+uOmzpQsmr7ANqtOOrbrmkpUaDjkN9RslAGUoMzBc4sBIMSUBKWgRsIDw/roRWMglBwDt7DMQgNz2DjKgnnIcAlOIMQMAI6PjNIC6vhJRSD0zASikM7aA9joBmMhXeQClbCQnJYDilhTQo6Lrs8a4so0cJaeAMvIBwkhIFTkAY+5hfwHJLBOHDmwRW4h9FwHJxxGAZv4SSkANeQLj24QclCaygHw1PQ5W15H2vyROeP9c7zD2VdUEJ1U2zMLihRa7wdEC8BnP0lcZOt9oQwrxL6VcK9K8s73Bhuwf478bKl4g1ECvrcFOEoa4ttI8S3TQx0uYrpEiqax5pAkYmRjct7TExi3A05Oc2xEaiewf5+mFUMKT2tjg85M8k5O+TsNDfE3IQ45YeUn6C2BTkYzJ6xvGkDjYJ8Yg85ysTFBGbHqf7k/qicfMp+O/KB6ykjRpSZosbYtPl6VKR4tUwew4xIP03a2PPbO2bb8btuv8jyfQPO29CtypuwK1L8Sc4esrLKrqqw6b3TLI7SwmsYuPjnnldZTckiBX0q69BmVdyacxifgj6G6xUlT/sBvMq6Mv+WN8tlU9MadFHe3P4e7+vyex8H9aBrHU+4m7n9RzkSG6vyi1h1ECsklJ6S6gSEhTaIt8K/0SvX63T9EzB2FkUoCAAA
+— P1 turn 5 phase AddImpulse
+P1 places #6 (Command/Yellow/2) at bottom of Impulse
+  Phase2: P1 uses tech Left (BasicCommon)
+P1 discards #86
+P1 moves ship N4 → N9
+P1 moves ship N4 → N9
+P1 moves ship N4 → N9
+  → activating #12 on N9 (+3 bonus gem(s) from arriving transports)
+  → command #12 (ship 2 fleet(s) up to 12, 1 move(s), +1 boost)
+  → command: 2 legal origin(s) for fleet 1/2
+P1 moves ship N9 → N14
+P1 moves ship N9 → N14
+P1 moves ship G20 → G23
+P1 moves ship G20 → G23
+P1 moves ship G20 → G23
+P1 moves ship G20 → G23
+  → activating #78 on N14 (+2 bonus gems from arriving transports)
+  → command #78 (ship 2 fleet(s) up to 12, 1 move(s), +1 boost)
+  → command: 3 legal origin(s) for fleet 1/2
+P1 moves ship N14 → N9
+P1 moves ship G23 → G22
+P1 moves ship G23 → G22
+P1 moves ship G23 → G22
+P1 moves ship G23 → G22
+  → activating #12 on N9 (+1 bonus gems from arriving transports)
+  → command #12 (ship 1 fleet(s) up to 12, 1 move(s))
+  → command: 3 legal origin(s) for fleet 1/1
+P1 moves ship N9 → N14
+  → activating #78 on N14 (+1 bonus gems from arriving transports)
+  → command #78 (ship 1 fleet(s) up to 12, 1 move(s))
+  → command: 3 legal origin(s) for fleet 1/1
+  ⚔ Battle at G25: P1 (4 cruisers) attacks P2
+  ⚔ P2 reinforces with #23
+  ⚔ P2 reinforces with #45
+  ⚔ P1 reinforces with #95
+  ⚔ P2 BLUFF revealed #23 (Green/1) — returned to hand
+  ⚔ P2 BLUFF revealed #45 (Red/3) — returned to hand
+  ⚔ P1 BLUFF revealed #95 (Blue/3) — returned to hand
+  ⚔ P2 draws cruiser-card #46 (Green/1)
+  ⚔ P1 draws cruiser-card #35 (Yellow/1)
+  ⚔ P1 draws cruiser-card #104 (Red/1)
+  ⚔ P1 draws cruiser-card #107 (Green/1)
+  ⚔ P1 draws cruiser-card #20 (Red/2)
+  ⚔ Totals: P1=5 vs P2=1
+  ⚔ Winner: P1
+P2's ship at G25 destroyed (returned to pool)
+P2's ship at N10 destroyed (returned to pool)
+P2's ship at N10 destroyed (returned to pool)
+P1 moves ship G22 → G25
+P1 moves ship G22 → G25
+P1 moves ship G22 → G25
+P1 moves ship G22 → G25
++1 prestige (BattleWon) → P1 total 11
++3 prestige (ShipsDestroyed) → P1 total 14
+!! BATTLE RESULT @ G25
+
+Attacker: P1 (4 cruisers)
+  reinforcements: (none)
+  bluffs (returned): #95 (Blue/3)
+  cruiser draws:  #35 (Yellow/1), #104 (Red/1), #107 (Green/1), #20 (Red/2)
+  total icons:    5
+
+Defender: P2
+  reinforcements: (none)
+  bluffs (returned): #23 (Green/1), #45 (Red/3)
+  cruiser draws:  #46 (Green/1)
+  total icons:    1
+
+Winner: P1 (+1 prestige for the win, +1 per ship destroyed).
+Ships destroyed: 3.
+P1 prestige now 14.
+  cursor=[0] #55 used by P1 (Command)
+  → command #55 (ship 1 fleet(s) up to 2, 1 move(s))
+  → command: 3 legal origin(s) for fleet 1/1
+P1 moves ship N14 → N9
+  → activating #12 on N9 (+1 bonus gems from arriving transports)
+  → command #12 (ship 1 fleet(s) up to 12, 1 move(s))
+  → command: 3 legal origin(s) for fleet 1/1
+  ⚔ Battle at G26: P1 (4 cruisers) attacks P2
+  ⚔ P2 reinforces with #23
+  ⚔ P2 reinforces with #45
+  ⚔ P1 reinforces with #95
+  ⚔ P2 BLUFF revealed #23 (Green/1) — returned to hand
+  ⚔ P2 BLUFF revealed #45 (Red/3) — returned to hand
+  ⚔ P1 BLUFF revealed #95 (Blue/3) — returned to hand
+  ⚔ P2 draws cruiser-card #42 (Yellow/2)
+  ⚔ P2 draws cruiser-card #43 (Green/3)
+  ⚔ P1 draws cruiser-card #70 (Yellow/1)
+  ⚔ P1 draws cruiser-card #16 (Yellow/1)
+  ⚔ P1 draws cruiser-card #29 (Red/1)
+  ⚔ P1 draws cruiser-card #9 (Red/2)
+  ⚔ Totals: P1=5 vs P2=5
+  ⚔ Winner: P2
+P1's ship at G25 destroyed (returned to pool)
+P1's ship at G25 destroyed (returned to pool)
+P1's ship at G25 destroyed (returned to pool)
+P1's ship at G25 destroyed (returned to pool)
++1 prestige (BattleWon) → P2 total 16
++4 prestige (ShipsDestroyed) → P2 total 20
+=== P2 wins (prestige 20) ===
+!! BATTLE RESULT @ G26
+
+Attacker: P1 (4 cruisers)
+  reinforcements: (none)
+  bluffs (returned): #95 (Blue/3)
+  cruiser draws:  #70 (Yellow/1), #16 (Yellow/1), #29 (Red/1), #9 (Red/2)
+  total icons:    5
+
+Defender: P2
+  reinforcements: (none)
+  bluffs (returned): #23 (Green/1), #45 (Red/3)
+  cruiser draws:  #42 (Yellow/2), #43 (Green/3)
+  total icons:    5
+
+TIE — defender wins.
+Winner: P2 (+1 prestige for the win, +1 per ship destroyed).
+Ships destroyed: 4.
+P2 prestige now 20.
