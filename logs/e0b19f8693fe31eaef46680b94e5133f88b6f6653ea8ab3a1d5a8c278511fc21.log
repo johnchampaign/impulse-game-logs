@@ -1,0 +1,19 @@
+# impulse log opened 2026-05-04T09:21:45.7365881-04:00
+  → P1 home N8 = #100
+  → P2 home N12 = #69
+[state turn=1 active=1] H4sIAAAAAAAACrWU207bQBCG32Wu/4s9H3wXBQlQD0RQ9SaKKmMvYOHY1AcQQnn3auMk2GpdVUi93J1vZmfnn5k3+h6atqgrSjjoJoScEq4100oZB1qV6WtolnVfdZQI0KJY1WWRFaGlZE3nTQj5K21Ay75pQtV965sh0CLriucweO8vVg9pGyihRZ5fbp/6sg0EumzP0224eo7MXVq2AXRRb8OqyB7bs7oKlHRNH0AHj2XftHVDCQOdheyRkrU20ApCQxpwCaNgPSSHFODMgTMODSPAPTiHldAOzkFYWAHt4WAMvIBmMA7CwDNoDu6gNLiB8BASTsNwWAvOFJyFVeAWlsFzxIcEhANXsAacQQlYB20hos1CwXkoBafgDBSDVJCwGo5BaggFFf0kONOQFlqDa3Bm4AQslITRcBJawNsN6Kxos7TJKVlvTpUZDjcPxVPU5Y2uXqpD3T8VVU4JVXW+L3hOidvhI8B92h0BwUaE+FMILj5IjF9xuw3oa52HZdrkw7/iae8NuukimlBev1QEiky0KBvjHjkxyxk25uQ8N8bULCblmNOznJ9wZp7TY87Oco6POffO9U8jirPJb/38s2OMs3cuq5tAE+NfJJhGETNJmSk2L8HQKidwXgQ9KS6fV8FOqsbnZZBuAs7roKagm6+wmoDzUggW23/YoEPzHxr/Os2OzbhqQtsV92G/EvfTv3hOizK9LcNe5Ys0DtVaMnB4A+9g4gZZlWk1bIwvRRWatIzxN6DP4a6j5O04i7dpW2Q/snq7rSvaga6L+4ff7X1V/OzjzJ7y2sUfHqbveCn+PVkPxeE9OPMw8r+nK3a7ze4XJKG11QYHAAA=
+— P1 turn 1 phase AddImpulse
+P1 places #67 (Refine/Green/1) at bottom of Impulse
+  Phase2: P1 uses tech Left (BasicCommon)
+P1 discards #96
+P1 explores N9: takes #9 (Red/2) into hand
+P1 places #98 (Green/3) face-up at N9
+P1 moves ship N8 → N9
+P1 moves ship N8 → N9
+  → activating #98 on N9 (+2 bonus gem(s) from arriving transports)
+  → command #98 (ship 3 fleet(s) up to 12, 1 move(s), +1 boost)
+  → command: 2 legal origin(s) for fleet 1/3
+P1 moves ship G20 → G22
+P1 moves ship N9 → N10
+P1 moves ship N9 → N10
+  → command: no legal origins for fleet 3/3 (convergence: [N10])
