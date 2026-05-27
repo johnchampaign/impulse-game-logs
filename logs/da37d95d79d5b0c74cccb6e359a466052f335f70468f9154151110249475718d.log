@@ -1,0 +1,19 @@
+# impulse log opened 2026-05-27T12:11:06.1275143-04:00
+# resumed from snapshot — turn 6, active P1
+[state turn=6 active=1] H4sIAAAAAAAACq2WS2/bSgyF/wvXZyHOe7QLEqAt+jKa4m4Mo1ClaSLUllLJSlEE/u8X8lO60UA3RXb26DN5eEh69ET/hKYt64pSBt2GUFDKWjqTKANarLM/obmuu2pLqQJdlYt6XeZlaCld0psmhOIP4dmHFei6a5pQbb92TUWpAV3l2/IxHOLtUy3uszZQSldF8W7z0K3bQKB37ZtsEz4/9syPbN0G0Nt6ExZl/rO9qatA6bbpAuj4i+uuaetmr+wm5D8pXdoETkDDGXgDTiQkw1mwh1UQDkLDKQgP6yAUvIaCFdAMthACnCgYDWmgJDx0AsXwCbSHsOBEwFtYC+WgHbSEk7AGDJXASjDDCBgHB88wHlJCSHgJIyH7AB6soBUEpIY2cAk4sbCwGl7AOTgN5aEEtF2Bbso2z5qC0uXqXDelS8cQBl6tQLf35UPfjyf6/Ls6uvu+rApKqaqLva0FpX6HvwHusu0JYDkgxFSIWcAOADkFjHLME2ouySTAapIYlCrVi8yYJyazKDEXQ4g5R80cwDzp6LBY+SJishThXkTMFztP/KXSedNH4yEmY/wPGSvQp7oI11lTHJaz/7YPD7rd9mhK3QOBemLfyX0rT5S4UEX9uxpwh7k6cTISjRMeYiqCSTGkdITybkiZWAFDyEYgZYeUi1BaDykfoez+L+vsa3LB8roJNHoYc12OY8RtV6PyOO77SDrHjPfjvDHnOUlGXMx7OeoQx9wX42guPmSjueBYB7To5/xwqx+m/DjhX7L8NCuLJrTb8i4c8/WX1dVjVq6z7+uwn9+3Wb8+S6VgkkO06nDbfSyr0GTrPrCxkCvQh/BjS+nTaeO+Z22Zf8vrzaauaAf6Ut7dP3/eVeWvrt/Ms6hdX9xxy06Hcqh0Qqg9C5UKbGJCWb+aTHmWKS+HamRo8lynOevkxIAdLMe0rl5LqTorVZfD/h3vorTfv/8o1WelhqE0jILzUV8TB9m/Kr2aaN7tVrt/AYL8tTX/CgAA
+— P1 turn 6 phase AddImpulse
+P1 places #44 (Command/Yellow/1) at bottom of Impulse
+  Phase2: P1 uses tech Left (BasicCommon)
+P1 discards #60
+P1 moves ship N9 → N5
+P1 moves ship N9 → N5
+  → activating #98 on N5 (+2 bonus gem(s) from arriving transports)
+  → command #98 (ship 3 fleet(s) up to 12, 1 move(s), +1 boost)
+  → command: 4 legal origin(s) for fleet 1/3
+P1 moves ship N5 → N10
+P1 moves ship N5 → N10
+P1 moves ship G14 → G13
+P1 moves ship G22 → G17
+  → Sector Core activated as Blue: 1 gem(s) + 2 transport(s) → +2 prestige
++2 prestige (SectorCoreActivatedByTransports) → P1 total 20
+=== P1 wins (prestige 20) ===
