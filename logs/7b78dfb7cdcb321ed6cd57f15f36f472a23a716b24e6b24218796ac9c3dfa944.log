@@ -1,0 +1,73 @@
+# impulse log opened 2026-05-27T07:57:05.3876887-04:00
+# resumed from snapshot — turn 5, active P1
+[state turn=5 active=1] H4sIAAAAAAAACrWWTW/bOBCG/8uc3wOH39QtcIC2aHdrJIu9GEahSGws1JaylJWiCPzfF/KntGtt0EVzsiw+mnnIGYp6oT9jaqumpoxB9zGWlLEQHII1FjRf5z9imjVdvaVMg26qebOuiiq2lC3oXYqx/EG4XMyaFO+6dkVL0KxLKdbbP7pUU2ZAN8W2eo6HiPts81XeRsropiw/bJ66dRsJ9KF9l2/i5+ee+Zqv2wh632zivCq+tbdNHSnbpi6Cjk/MutQ2ae92G4tvlC2WoNuqLfJUUrYwARwgBayF1HAa1oAtjIa08B7BwTh4hjYIBkbABgQBpeADrIKRMLAS7GA8VIBTUBasoTxYBHgDoxAsQoDScBIsJKxAUNAW3sFqKAnlEDSchw7QCB4O0iNAM7wGK2gHaaAYzkJLeAkGMzycgTJgA5bL88QpW8gAFgIs7BJ0v6qe+qK80Ofv9XGBP1Z1SRnVTblf2ZIyvcN/A+Yq8JhvT4CUA0JeC/EqoAaAugbwUFNfJcyrBF8lBjNR4qfm+jqhrhLuF2d5M1Nlfoq4nuX/1X6YQ71WN2l3S9DvTRlneSoPPd//21cddL/t0Yy6p/59lKeyv+/3tT5RcoLiEaUmKK2GlJ6gDt11oswE5XhI2SlqFMtdqLL5Xg/N/JDzk9yhJ09cmORYjAKyuJBFkyKNBqeWXusRJiezuTAC1bT+iJsqgBxjUxWwI8pOJrWjNWM3Vaox5qeyjurOYapt961+ODIPjX5s8ru8OHXfPMV2Wz3Go31/DNw859U6f1jHfau/z/sdtGBhEPgQrj6ck79VdUz5uo+8BH2KX7eUvZx23EPeVsWXotlsmpp2oLvqcTUcT7GNeSpWsRzOy+/6iR032clSDi39vyXDWdIw2EO9saWxZ0t1sVRDyytL6c6WUoGFg+9/fqHrw368q6u/uv5dd/Y6y+rLzf7b7Czbt88/ZP1ZNvQfJBosGFrAmDf3tbvdcvc3rsyGxVgKAAA=
+— P1 turn 5 phase AddImpulse
+P1 places #105 (Command/Yellow/3) at bottom of Impulse
+  Phase2: P1 uses tech Left (BasicCommon)
+P1 discards #91
+  ⚔ Battle at G26: P1 (6 cruisers) attacks P4
+  ⚔ P4 reinforces with #101
+  ⚔ P4 reinforces with #92
+  ⚔ P4 reinforces with #55
+  ⚔ P4 reinforces with #40
+  ⚔ P4 reinforces with #104
+  ⚔ P4 BLUFF revealed #92 (Red/3) — returned to hand
+  ↻ deck empty — shuffling 72 discard(s) into deck
+  ⚔ P4 draws cruiser-card #26 (Yellow/2)
+  ⚔ P1 draws cruiser-card #54 (Red/1)
+  ⚔ P1 draws cruiser-card #8 (Green/1)
+  ⚔ P1 draws cruiser-card #4 (Yellow/2)
+  ⚔ P1 draws cruiser-card #74 (Red/2)
+  ⚔ P1 draws cruiser-card #57 (Blue/2)
+  ⚔ P1 draws cruiser-card #93 (Red/3)
+  ⚔ Totals: P1=11 vs P4=9
+  ⚔ Winner: P1
+P4's ship at G26 destroyed (returned to pool)
+P1 moves ship G22 → G26
+P1 moves ship G22 → G26
+P1 moves ship G22 → G26
+P1 moves ship G22 → G26
+P1 moves ship G22 → G26
+P1 moves ship G22 → G26
++1 prestige (BattleWon) → P1 total 17
++1 prestige (ShipsDestroyed) → P1 total 18
+!! BATTLE RESULT @ G26
+
+Attacker: P1 (6 cruisers)
+  reinforcements: (none)
+  cruiser draws:  #54 (Red/1), #8 (Green/1), #4 (Yellow/2), #74 (Red/2), #57 (Blue/2), #93 (Red/3)
+  total icons:    11
+
+Defender: P4
+  reinforcements: #101 (Red/1), #55 (Yellow/3), #40 (Yellow/2), #104 (Red/1)
+  bluffs (returned): #92 (Red/3)
+  cruiser draws:  #26 (Yellow/2)
+  total icons:    9
+
+Winner: P1 (+1 prestige for the win, +1 per ship destroyed).
+Ships destroyed: 1.
+P1 prestige now 18.
+  cursor=[0] #29 used by P1 (Mine)
+  → P1 no eligible card in hand to mine
+  cursor=[1] #100 used by P1 (Command)
+  → command #100 (ship 1 fleet(s) up to 1, 1 move(s))
+  → command: 5 legal origin(s) for fleet 1/1
+P1 moves ship N4 → N5
+  → activating #71 on N5 (+1 bonus gems from arriving transports)
+  → command #71 (Transport 1 fleet(s) up to 1, 1 move(s))
+  → command: 1 legal origin(s) for fleet 1/1
+P1 moves ship N5 → N1
+  → activating #80 on N1 (+1 bonus gems from arriving transports)
+P1 drew #1 (Green/1) → hand
+P1 drew #60 (Red/2) → hand
+  cursor=[2] #106 used by P1 (Refine)
+  → P1 no matching mineral to refine
+  cursor=[3] #105 used by P1 (Command)
+  → command #105 (ship 1 fleet(s) up to 1, 2 move(s))
+  → command: 5 legal origin(s) for fleet 1/1
+P1 moves ship G2 → G6
+P2's ship at N2 destroyed (returned to pool)
++1 prestige (ShipsDestroyed) → P1 total 19
+P1 moves ship G6 → G4
++2 prestige (SectorCoreGatesPatrolled) → P1 total 21
+=== P1 wins (prestige 21) ===
