@@ -1,0 +1,629 @@
+# impulse log opened 2026-06-27T18:17:46.5612041-04:00
+  → P1 home N8 = #49
+  → P2 home N12 = #37
+[state turn=1 active=1] H4sIAAAAAAAACrWU207cQAyG38XX/8V4zpO7FUiAemAFVW9WqyokA0TsJjQHUIX23atsdiFRG1Qh9XJmPnts/7Zf6Husm6IqKWHQdYw5JUqz8oYNaLlJf8X6pOrKlhIJWhTLalNkRWwoWdFZHWP+i9agk66uY9l+6+rBzyJri6c4WO8vlvdpEymhRZ5fbB+7TRMJdNGcpdt4+dQzt+mmiaDzahuXRfbQnFZlpKStuwg6WJx0dVPVlAjQacweKFk5DeVhAqSAcXACLBS8ADOMh1XwAQragiVcgBYIAUYjMLxE0GAB78GCYTW0hDMwBkGBRYA3MApKIEg4D9YwEtaChYOVYIPgwB5SQRpYAxnAQsAztIEBCwkNpcABRsBBaVgGQ2sohvQIBhIsPEIfuoX2YAvdf68hJYJHsJAOXsFZsFuDTosmS+ucktX6tTTD4fq+eOyFeaHL5/JQ+E9FmVNCZZXvK55T4nf4CHCXtkdAihEh/+aC5QeJ8S9+twZ9rfJ4ktb5kFd/2luDrtseTSivnksC9Uz/4rj3e+TkLGfFmFOznNRjTs9yyo45M8vpSXx2lmNhxqCbT9iNOf/GdY/jb8OYCvNpTDgWb2BW1ZEmj/MiKDkB5UxQahI6z4vg1AR8R4VJ0foNNgOaiVw8r4Of6M/v6DDN2c933oSbl8Lbvv+HHTp0/6Hzr9Ls2LTLOjZtcRf3S3E//ountNikN5u4V/k87adqZQOsg4e0YDU4LYeV8aUoY51uev9r0Od421LychzGm7Qpsh9Ztd1WJe1AV8Xd/Z/vXVn87PqhfY1r12d4GL/jpfznYL2DdggwDOv/e7Byt1vvfgNmi9fdBQcAAA==
+— P1 turn 1 phase AddImpulse
+P1 places #26 (Command/Yellow/2) at bottom of Impulse
+  Phase2: P1 uses tech Left (BasicCommon)
+P1 discards #67
+P1 explores N9: takes #39 (Yellow/2) into hand
+P1 places #13 (Yellow/3) face-up at N9
+P1 moves ship N8 → N9
+P1 moves ship N8 → N9
+  → activating #13 on N9 (+2 bonus gem(s) from arriving transports)
+  → command #13 (ship 1 fleet(s) up to 2, 2 move(s), +1 boost)
+  → command: 2 legal origin(s) for fleet 1/1
+P1 moves ship N9 → N10
+P1 moves ship N9 → N10
+  → Sector Core activated as Red: 0 gem(s) + 2 transport(s) → +2 prestige
++2 prestige (SectorCoreActivatedByTransports) → P1 total 2
+  cursor=[0] #26 used by P1 (Command)
+  → command #26 (ship 1 fleet(s) up to 1, 1 move(s))
+  → command: 2 legal origin(s) for fleet 1/1
+P1 moves ship N10 → N9
+  → activating #13 on N9 (+1 bonus gems from arriving transports)
+  → command #13 (ship 1 fleet(s) up to 2, 1 move(s))
+  → command: 3 legal origin(s) for fleet 1/1
+P1 moves ship N10 → N9
+  → activating #13 on N9 (+1 bonus gems from arriving transports)
+  → command #13 (ship 1 fleet(s) up to 2, 1 move(s))
+  → command: 2 legal origin(s) for fleet 1/1
+P1 moves ship G20 → G22
++1 prestige (SectorCoreGatesPatrolled) → P1 total 3
+P1 draws 2 (hand=5, deck=78)
+[state turn=1 active=2] H4sIAAAAAAAACrWUTU/bQBCG/8uc38POfq9vUZAA9YMIql6iqDL2AhaJTe0YhFD+e7UJAVutOSD1aO+zM+/MO7Mv9DO2XdXUlDHoKsaSMqVZecMGtFjnz7GdN329pUyCZtWiWVdFFTvKlnTaxlg+0wo079s21tsffXuIMyu21WM83N5fXNzlXaSMZmV5vnno110k0Hl3mm/ixWNibvJ1F0FnzSYuquK+O2nqSNm27SPo9ca8b7um3cc/icU9ZUsTIAWMgxNgoeAFmGE8rIIPUNAWLOECtEAIMBqB4SWCBgt4DxYMq6ElnIExCAosAryBUVACQcJ5sIaRsBYsHKwEGwQH9pAK0sAayAAWAp6hDQxYSGgoBQ4wAg5KwzIYWkMxpEcwkGDhEZJ0C+3BFjql15ASwSNYSAev4CzYrUAnVVfkbUnZ0qbPYyOzpbQr0NVd9ZBseaGLpzq1lEFfqrqkjOqm3Pe7pCzs8BngNt8eASkHhPxXCP4sMczidyvQ96aM87wtD3Wlr/1t0NU2oRmVzVNNoMSkE8cp7pGTk5wVQ05NclIPOT3JKTvkzCSnR/rsJMfCDEE3XbAbcv6d6x+GacOQChMUqyHF4h0rmjbS6HDaAiVHoJxIpkbCedoCN1b1gQejlqXXawI0I7N42gU/cp8/cGFcs5+euxEXpjPbNP2H9/Mw+69zf5kXx5FdtLHbVrfxML9p+WePebXOr9dx7/FZnnZqaQM8VIDTUP4QtKZsuQJ9q+rY5usUfwX6Gm+2lL0cV/E676riV9FsNk1NO9BldXv393lfV7/7tLJvunapwtflO/5M7/+b2DRWk2K9g3YIMAz7/8XK3W61+wMK2wkzAQcAAA==
+— P2 turn 1 phase AddImpulse
+P2 places #68 (Trade/Blue/2) at bottom of Impulse
+  Phase2: P2 uses tech Left (BasicCommon)
+P2 discards #87
+P2 builds at G31 (available=8)
+  cursor=[0] #26 used by P2 (Command)
+  → command #26 (ship 1 fleet(s) up to 1, 1 move(s))
+  → command: 3 legal origin(s) for fleet 1/1
+P2 explores N11: takes #32 (Blue/2) into hand
+P2 places #32 (Blue/2) face-up at N11
+P2 moves ship G28 → G25
+  cursor=[1] #68 used by P2 (Trade)
+P2 discards #47
++1 prestige (TradedCardIcons) → P2 total 1
+  → P2 no eligible card to trade
++1 prestige (SectorCoreGatesPatrolled) → P2 total 2
+P2 draws 2 (hand=4, deck=76)
+[state turn=2 active=1] H4sIAAAAAAAACrWUy07cQBBF/6XWd9HV7/YOgQQoD0YQZTMaRcZuwGLGJvYYhND8e9TzADuJiYSUpd2nq2/VraoX+h7brmpqyhh0FWNJmdKsvGEDmi3z59geN329pkyCjqpZs6yKKnaUzem0jbF8pgXouG/bWK+/9W2944p19Rh3t7eBZ3d5Fymjo7I8Xz30yy4S6Lw7zVfx4jExN/myi6CzZhVnVXHfnTR1pGzd9hG0v3Hct13TbuOfxOKesrlxcAIsFLwAM4yHVfABCtqCJVyAFggBRiMwvETQYAHvwYJhNbSEMzAGQYFFgDcwCkogSDgP1jAS1oKFg5Vgg+DAHlJBGlgDGcBCwDO0gQELCQ2lwAFGwEFpWAZDayiG9AgGEiw8QpJuoT3YQqfnNaRE8AgW0sErOAt2C9BJ1RV5W1I2tw7eQaefh0Jmc2lh/QJ0dVc9JGde6OKp3lf+U1WXlFHdlNuSl5SFDT4C3ObrAyDlgJB/C8EfJYavmH8RijcL0NemjMd5W+4yT1/b+KCrdUIzKpunmkCJSSeOU9wDJyc5K4acmuSkHnJ6klN2yJlJTo/02UmOhRmCbjphN+T8G9c/DJ8NQypMUKyGFIs3rGjaSKNDnoih5AiTU9hINk8b4Maa3nFgVLC04CZAM7KKpz3wI+/5HQ/GOfvprhtxYfplm3p/t2J3nb/v+su8ODTsrI3durqNu+5Ny+HoMa+W+fUybh0+y9NEzW2AhwpwGiqtkdkyrymbL0Bfqjq2+TLFX4A+x5s1ZS+HQbzOu6r4UTSrVVPTBnRZ3d79ed7X1c8+Deyrrk3KcD96h59yKDY1xG9i/avYAMMwAVL8d6Vys1lsfgF7kGNeIQcAAA==
+— P1 turn 2 phase AddImpulse
+P1 places #39 (Command/Yellow/2) at bottom of Impulse
+  Phase2: P1 uses tech Left (BasicCommon)
+P1 discards #8
+P1 builds at G20 (available=8)
+  cursor=[0] #26 used by P1 (Command)
+  → command #26 (ship 1 fleet(s) up to 1, 1 move(s))
+  → command: 3 legal origin(s) for fleet 1/1
+P1 moves ship N9 → N8
+  → activating #49 on N8 (+1 bonus gems from arriving transports)
+  → drew #57 (Blue/2) — discard (size up to 1)
+P1 plans #70 → Plan (size now 1)
+  cursor=[1] #68 used by P1 (Trade)
+P1 discards #69
++1 prestige (TradedCardIcons) → P1 total 4
+P1 discards #38
++1 prestige (TradedCardIcons) → P1 total 5
+  cursor=[2] #39 used by P1 (Command)
+  → command #39 (Cruiser 1 fleet(s) up to 2, 1 move(s))
+  → command: 2 legal origin(s) for fleet 1/1
+P1 moves ship G20 → G22
+  Plan delayed by P1 (1 cards)
++1 prestige (SectorCoreGatesPatrolled) → P1 total 6
+P1 draws 2 (hand=3, deck=72)
+[state turn=2 active=2] H4sIAAAAAAAACrWVW0/bQBCF/8s8n4edva/fUJAA9UIEVV+iqDL2AhaJTe0YhFD+e7UJAVvFtKrUN3v388zZmbPjZ/oe265qasoYdBljSZnSrLxhA5qv8qfYzpq+3lAmQUfVvFlVRRU7yhZ00sZYPtESNOvbNtabb31b77liUz3E/de7hflt3kXK6Kgsz9b3/aqLBDrrTvJ1PH9IzHW+6iLotFnHeVXcdcdNHSnbtH0EvXwx69uuaSlToONY3FG2YIbxsAo+QEFbsIQL0AIhwGgEhpcIGizgPVgwrIaWcAbGICiwCPAGRkEJBAnnwRpGwlqwcLASbBAc2EMqSANrIANYCHiGNjBgIaGhFDjACDgoDctgaA3FkB7BQIKFRxBgYaE92EKn9BpSIngEC+ngFZwFuyXouOqKvC0pW1gH76AdPIyDDVB++VoUyhbSwnqosARd3lb3qTXPdP5Yp7Iy6FNVl5RR3ZS7mpeU+S0+BsK7wE2+OQBSDgj5Xgj+V2KYxfyJUPwXSpegr00ZZ3lb7muT3nYKQJebhGZUNo81gRKTdtwu7oGTk5wVQ05NclIPOT3JKTvkzCSnR/rsJMfCDEE3fWA35Pwb198P04YhFSYoVkOKxRtWNG2k0SZPxFByhMkpbCSbpxvgxpo+6MCoYGkGToBm1Cqe7oEf9Z4/6MH4zH7adSMuTGe2yfv7Kbx3/ovrL/LiYNh5G7tNdRP3Lkrj4+ghr1b51SrufHCapxu1cGmGKnixD1inpfT8papjm69S9CXoc7zeUPZ8uIZXeVcVP4pmvW5q2oIuqpvb3/f7uvrZp+v6qmqbzvdy8Q6L6R/yKjXZYVJqgGGYADnQ+p+Uyu12uf0F7yKK1UIHAAA=
+— P2 turn 2 phase AddImpulse
+P2 places #9 (Sabotage/Red/2) at bottom of Impulse
+  Phase2: P2 uses tech Left (BasicCommon)
+P2 discards #59
+P2 moves ship N12 → N11
+  → activating #32 on N11 (+1 bonus gem(s) from arriving transports)
+P2 builds at N12 (available=7)
+  → no other Yellow sector with your transport — only home gets ships
+  cursor=[0] #26 used by P2 (Command)
+  → command #26 (ship 1 fleet(s) up to 1, 1 move(s))
+  → command: 4 legal origin(s) for fleet 1/1
+P2 explores N6: takes #105 (Yellow/3) into hand
+P2 places #105 (Yellow/3) face-up at N6
+P2 moves ship N11 → N6
+  → activating #105 on N6 (+1 bonus gems from arriving transports)
+  → command #105 (ship 1 fleet(s) up to 1, 2 move(s))
+  → command: 4 legal origin(s) for fleet 1/1
+P2 explores N5: takes #41 (Yellow/1) into hand
+P2 places #51 (Green/3) face-up at N5
+P2 moves ship N6 → N5
+P2 moves ship N5 → N6
+  cursor=[1] #68 used by P2 (Trade)
+P2 discards #41
++1 prestige (TradedCardIcons) → P2 total 3
+  → P2 no eligible card to trade
+  cursor=[2] #39 used by P2 (Command)
+  → command #39 (Cruiser 1 fleet(s) up to 2, 1 move(s))
+  → command: 2 legal origin(s) for fleet 1/1
+P2 moves ship G31 → G28
+  cursor=[3] #9 used by P2 (Sabotage)
+  → bomb 1: drew #11 (Blue/1) — miss
+  → bomb 2: drew #58 (Red/2) — HIT
+  → bomb 3: drew #63 (Blue/3) — HIT
+  → Sabotage: 2 hit(s), destroying 2/2 ship(s) of P1
+P1's ship at G22 destroyed (returned to pool)
++1 prestige (ShipsDestroyed) → P2 total 4
+P1's ship at G22 destroyed (returned to pool)
++1 prestige (ShipsDestroyed) → P2 total 5
++1 prestige (SectorCoreGatesPatrolled) → P2 total 6
+impulse trim #26 (length now 3)
+P2 draws 2 (hand=3, deck=67)
+[state turn=3 active=1] H4sIAAAAAAAACrWUTU/bQBCG/8uc38POfq9vUZAA9YMIql5QVBl7AYvEpnYMQij/vVqSgK1i6KVHe56deefzmX7GtquamjIGXcRYUqY0K2/YgBar/Cm286avN5RJ0KxaNKuqqGJH2SUdtzGWT7QEzfu2jfXmR9/WlCnQrNhUD3H3+sXx4jbvImU0K8vT9X2/6iKBTrvjfB3PHhJzna+6CDpp1nFRFXfdUVNHyjZtH0H7F/O+7ZqWMg06isUdZZfagiVcgBYIAUYjMLxE0GAB78GCYTW0hDMwBkGBRYA3MApKIEg4D9YwEtaChYOVYIPgwB5SQRpYAxnAQsAztIEBCwkNpcABRsBBaVgGQ2sohvQIBhIsPIIACwvtwRY6hdeQEsEjWEgHr+As2C1BR1VX5G1J2aV18A7awcM42ADlYQI0gxnGwypIu3wtTHrhoQLCEnRxW92n7jzT2WO9r/6Xqi4po7opX8peUua3+BgIA0C+B9jPAJbvEjf55kBI8ynh/yHKEvS9KeM8b8td4unrxQa62CRnGZXNY02gxCSL4+T3wMlJzoohpyY5qYecnuSUHXLmjevvB5QZqbMTFAszxNx0sm7I+Ql3OgypMBVUDSkWb1jRtJFGRp7woeQIk1PYSDZPF9+NNX1Q/VHB0n2bAM2oTWwnQT/qO3/Qg3HOfnriRlyYjmzT3O8u7G7q9xN/nheHYV20sdtUN3E3Q+kuzB7yapVfreKudyd5WqdLl86lghc7j3X6JZagb1Ud23yV3C9BX+P1hrLnww5e5V1V/Cqa9bqpaQs6r25u/7b3dfW7T7v6KmubEtxv3eGn/ESre5UqBXyAehP6n2TK7Xa5/QMUeVS6HAcAAA==
+— P1 turn 3 phase AddImpulse
+P1 places #74 (Research/Red/2) at bottom of Impulse
+  Phase2: P1 uses tech Left (BasicCommon)
+P1 discards #103
+P1 moves ship N8 → N9
+  → activating #13 on N9 (+1 bonus gem(s) from arriving transports)
+  → command #13 (ship 1 fleet(s) up to 2, 1 move(s))
+  → command: 1 legal origin(s) for fleet 1/1
+P1 explores N13: takes #73 (Red/1) into hand
+P1 places #80 (Green/1) face-up at N13
+P1 moves ship N9 → N13
+P1 moves ship N9 → N13
+  → activating #80 on N13 (+2 bonus gems from arriving transports)
+P1 drew #46 (Green/1) → hand
+P1 drew #12 (Green/2) → discard (color Blue/Red)
+P1 drew #79 (Red/1) → hand
+  cursor=[0] #68 used by P1 (Trade)
+P1 discards #73
++1 prestige (TradedCardIcons) → P1 total 7
+P1 discards #46
++1 prestige (TradedCardIcons) → P1 total 8
+  cursor=[1] #39 used by P1 (Command)
+  → command #39 (Cruiser 1 fleet(s) up to 2, 1 move(s))
+  → command: 0 legal origin(s) for fleet 1/1
+  cursor=[2] #9 used by P1 (Sabotage)
+  → sabotage: no legal target for P1
+  cursor=[3] #74 used by P1 (Research)
+  Plan delayed by P1 (1 cards)
+impulse trim #68 (length now 3)
+P1 draws 2 (hand=3, deck=62)
+[state turn=3 active=2] H4sIAAAAAAAACrWVTU/bQBCG/8uc38POfq9vEUiA+kEEVS9RVBl7AYvEpnYMQij/vdqEhLjF0B569M6zM+98rZ/pe2y7qqkpY9BljCVlSrPyhg1ousifYnvU9PWKMgmaVNNmURVV7Cib0UkbY/lEc9BR37axXn3r25oyBZoUq+ohbm9vLk5v8y5SRpOyPFve94suEuisO8mX8fwhMdf5ooug02YZp1Vx1x03daRs1fYR9HLjqG+7pqVMg45jcUfZzGgEhpcIGizgPVgwrIaWcAbGICiwCPAGRkEJBAnnwRpGwlqwcLASbBAc2EMqSANrIANYCHiGNjBgIaGhFDjACDgoDctgaA3FkB7BQIKFRxBgYaE92EKn8BpSIngEC+ngFZwFuznouOqKvC0pm1kH76AdPIyDDVAeJkAzmGE8rIJMahVYwiloC+vn+8pQNlMBAU7PQZe31X1qzzOdP9aptAz6VNUlZVQ35abuJWWs1vgHQr5F2I8Alm8SN/lqR0jzIeH/Isoc9LUp41HeltvU09fGBrpcJWcZlc1jTaDEJIvj5HfHyVHOikNOjXJSH3J6lFP2kDOvXH9/QJmBOjtCsTCHmBtP1h1yfsSdDodUGAu6mYt9gcUrVjRtpIGRR3woOcDkGDaQzWoE84MW8Tu1H5QrPXAjoBk0ie0o6Add53c6MMzYj8/bgAvjkW2a+u0Tu535l3m/yIvdqE7b2K2qm7hteXoXJg95tcivFnHbudM8LdPMBWiBELYO63Qi5qAvVR3bfJG8z0Gf4/WKsufdAl7lXVX8KJrlsqlpDbqobm7/tPd19bNPi7pXtU75vazc7jD9IPZSU7F/k+r2SqWAD1CvQv+TTLlez9e/AK5pYK4cBwAA
+— P2 turn 3 phase AddImpulse
+P2 places #89 (Execute/Green/2) at bottom of Impulse
+  Phase2: P2 uses tech Right (BasicUnique)
+P2 moves ship N6 → N10
+  → Sector Core activated as Red: 0 gem(s) + 1 transport → +1 prestige
++1 prestige (SectorCoreActivatedByTransports) → P2 total 7
+  cursor=[0] #39 used by P2 (Command)
+  → command #39 (Cruiser 1 fleet(s) up to 2, 1 move(s))
+  → command: 2 legal origin(s) for fleet 1/1
+P2 moves ship G28 → G25
+  cursor=[1] #9 used by P2 (Sabotage)
+  → sabotage: no legal target for P2
+  cursor=[2] #74 used by P2 (Research)
+P2 researches #3 into slot Right (replaces Basic Unique (Ariek) — discarded permanently)
+  cursor=[3] #89 used by P2 (Execute)
+  → execute: no eligible size≤1 card in hand
++1 prestige (SectorCoreGatesPatrolled) → P2 total 8
+impulse trim #39 (length now 3)
+P2 draws 2 (hand=3, deck=60)
+[state turn=4 active=1] H4sIAAAAAAAACqWU207bQBCG32Wu/4udPa/vIpAA9UAEVW+iqDL2QiwSm9oxqEJ592oTEmIVg9peeufzzD/HZ/oe265qasoYdB1jSZnSrLxhA5ou81+xPWn6ek2ZBE2qabOsiip2lM3orI2x/EVz0EnftrFef+vbmjINmhTr6jHu/t46ni7yLlJGk7K8WD30yy4S6KI7y1fx8jExt/myi6DzZhWnVXHfnTZ1pGzd9hH08sdJ33ZNu/V/Got7ymZeImiwgPdgwbAaWsIZGIOgwCLAGxgFJRAknAdrGAlrwcLBSrBBcGAPqSANrIEMYCHgGdrAgIWEhlLgACPgoDQsg6E1FEN6BAMJFh5BgIWF9mALncJrSIngESykg1dwFuzmoNOqK/K2pGxmHbyDdvAwDjZAeZgAzWCG8bAKMqlVYAmnoC2shwrzQ1komwU4DZ/erhfVQ+rNM10+1S+1/1TVJWVUN+W26CVlrDb4C0K+SYgPCfkmcZev94Q0/0gMo8xBX5synuRtucs9fW1toOt1cpZR2TzVBEpMsjhOfvecHOWsOObUKCf1MadHOWWPOfPK9Q9HlBmosyMUC3OMufFk3THnR9zpcEyFsaDbwTgUWLxiRdNGGhh5xIeSA0yOYQPZrEYwP2gRv1P7QbnSeRsBzaBJbEdBP+g6v9OBYcZ+fN4GXBiPbNPU7w7sbuZf5v0qL/ajOm1jt67u4q7l6TBMHvNqmd8s465z53lappkL0AIhnY/pMq/Ti5iDvlR1bPNl8j4HfY63a8qe9wt4k3dV8aNoVqumpg3oqrpb/Gnv6+pnnxb1oGqT8ntZuf2j/ECqOyiVAkYj8KvS/9XZxi7mbbGI5fGgbDbzzW/cmQDKGQcAAA==
+— P1 turn 4 phase AddImpulse
+P1 places #40 (Command/Yellow/2) at bottom of Impulse
+  Phase2: P1 uses tech Left (BasicCommon)
+P1 discards #99
+P1 builds at G20 (available=9)
+  cursor=[0] #9 used by P1 (Sabotage)
+  → sabotage: no legal target for P1
+  cursor=[1] #74 used by P1 (Research)
+  cursor=[2] #89 used by P1 (Execute)
+  → executing tech Left (BasicCommon)
+P1 discards #79
+P1 moves ship N13 → N9
+P1 moves ship N13 → N9
+  → activating #13 on N9 (+2 bonus gem(s) from arriving transports)
+  → command #13 (ship 1 fleet(s) up to 2, 2 move(s), +1 boost)
+  → command: 2 legal origin(s) for fleet 1/1
+P1 moves ship G20 → G22
+  cursor=[3] #40 used by P1 (Command)
+  → command #40 (Transport 1 fleet(s) up to 1, 2 move(s))
+  → command: 1 legal origin(s) for fleet 1/1
+P1 moves ship N9 → N13
+  → activating #80 on N13 (+1 bonus gems from arriving transports)
+P1 drew #82 (Green/1) → hand
+P1 drew #94 (Yellow/1) → discard (color Blue/Red)
+  Plan delayed by P1 (1 cards)
++1 prestige (SectorCoreGatesPatrolled) → P1 total 9
+impulse trim #9 (length now 3)
+P1 draws 2 (hand=3, deck=56)
+[state turn=4 active=2] H4sIAAAAAAAACqWV207bQBCG32Wu/4udPa/vEEiAeiCCqjdRVBl7AYvEpnYMQijvXm1Cgt1iKrWX3v1m5t85+YW+x7armpoyBl3FWFKmNCtv2IBmy/w5tsdNX68pk6CjatYsq6KKHWVzOm1jLJ9pATru2zbW6299W1OmQUfFunqMO+ut4ewu7yJldFSW56uHftlFAp13p/kqXjwm5iZfdhF01qzirCruu5OmjpSt2z6CXi2O+7Zr2q3/k1jcUzZnwbAaWsIZGIOgwCLAGxgFJRAknAdrGAlrwcLBSrBBcGAPqSANrIEMYCHgGdrAgIWEhlLgACPgoDQsg6E1FEN6BAMJFh5BgIWF9mALncJrSIngESykg1dwFuwWoJOqK/K2pGxuHbyDdvAwDjZAeZgAzWCG8bAKMqlVYAmnoC2shwoIAS4gaITFISuUzZ2GD9BiAbq6qx5SbV7o4qlOeWXQp6ouKaO6KbdJLyljtcHHRBgA8l0X4q+EfJe4zdd7Qpp/JKai8Ls+5GYB+tqU8Thvy11y0tfWGnS1TmhGZfNUEygx6cZx8rvn5CRnxZBTk5zUQ05PcsoOOfPG9Q8DyozU2QmKhRlibvqxbsj5CXc6DKkwFXTbW4cEizesaNpIo0ue8KHkCJNT2Eg2qwnMj0rEH+R+lK60/yZAMyoS20nQj6rOH1Rg/GI/3W8jLkxHtqnrdxt41/Ov/X6ZF/tWnbWxW1e3cVfMtDmOHvNqmV8vd0dneZqluU+rDt7v/NVp4YgF6EtVxzZfJucL0Od4s6bsZT9/13lXFT+KZrVqatqALqvbuz/v+7r62ac5PYjapOe9Ttz+MP0+DkpTZn5T6g5KpYDRCPym9H91trGLeVvcxXLYJ5vNYvMLXxFPAjkHAAA=
+— P2 turn 4 phase AddImpulse
+P2 places #91 (Command/Yellow/3) at bottom of Impulse
+  Phase2: P2 uses tech Left (BasicCommon)
+P2 discards #54
+P2 moves ship N10 → N6
+  → activating #105 on N6 (+1 bonus gem(s) from arriving transports)
+  → command #105 (ship 1 fleet(s) up to 1, 2 move(s))
+  → command: 3 legal origin(s) for fleet 1/1
+P2 explores N2: takes #60 (Red/2) into hand
+P2 places #60 (Red/2) face-up at N2
+P2 moves ship N6 → N2
+P2 moves ship N2 → N6
+  cursor=[0] #74 used by P2 (Research)
+  cursor=[1] #89 used by P2 (Execute)
+  → executing tech Left (BasicCommon)
+P2 discards #20
+P2 builds at N12 (available=6)
+  cursor=[2] #40 used by P2 (Command)
+  → command #40 (Transport 1 fleet(s) up to 1, 2 move(s))
+  → command: 2 legal origin(s) for fleet 1/1
+P2 moves ship N6 → N2
+P2 moves ship N2 → N5
+  → activating #51 on N5 (+1 bonus gems from arriving transports)
+P2 plans #101 → Plan (size now 1)
+  → drew #64 (Green/3) — discard (need Red)
+  → drew #42 (Yellow/2) — discard (need Red)
+  cursor=[3] #91 used by P2 (Command)
+  → command #91 (ship 1 fleet(s) up to 1, 2 move(s))
+  → command: 3 legal origin(s) for fleet 1/1
+P2 moves ship N5 → N2
+P2 moves ship N2 → N6
+  → activating #105 on N6 (+1 bonus gems from arriving transports)
+  → command #105 (ship 1 fleet(s) up to 1, 2 move(s))
+  → command: 3 legal origin(s) for fleet 1/1
+P2 moves ship N6 → N11
+  → activating #32 on N11 (+1 bonus gems from arriving transports)
+P2 builds at G18 (available=5)
+  → no other Yellow sector with your transport — only home gets ships
+  plan #101 used by P2 (Research)
++1 prestige (SectorCoreGatesPatrolled) → P2 total 9
+impulse trim #74 (length now 3)
+P2 draws 2 (hand=2, deck=51)
+[state turn=5 active=1] H4sIAAAAAAAACqWUSU/jQBCF/0ud38HVe/sWBQnQLEQwmksUjYzdEIvEZuwYNEL576POhq3BIA1Hu7+uev1qeaGfoWnLuqKUQTchFJRKxdJp1qDZKvsTmmndVRtKBWhSzupVmZehpXRO500IxR9agKZd04Rq86NrKko1aJJvyqewv70LPFtmbaCUJkVxuX7sVm0g0GV7nq3D1VNk7rJVG0AX9TrMyvyhPaurQOmm6QLocGPaNW3dUKpAZyF/oHTuJTjxcBpaQibwAtaBFbSAMeDEwgiwhrdgByEhNIyG8OAkgWMoDQ1OBBSkBHvoBBZSwTAYSkEyhIPXEODEwSfgxEA5sIGK6RWEgHfwBsLCSVgDtgvQWdnmWVNQOjcWzkJZOGgL4yEdtIdiMEM7GAkR1UqwgJVQBsZBengP6+EVPLSCSGAUVBTCsGpxMobSufNQCTwvQDfL8jGW54WunquD/V/KqqCUqrrY+V5QynKL9wnfA8SbIfhDQrxJ3GebIyH0fxJjWfjNGOLzStltF6DvdRGmWVPsDY5fuzPQzSaiKRX1c0WgyMQTu/PoyIlXrnvsUSbpU3I0mlB9To1y0vQ5PZJVD7SZEYoT3cfs+FNtn3Mj4ZTvU34s6a47T/Ymr1heN4EGhzwSQ4oBNua9HMhmOYK5QYn4He8HdsUlOgLqQZHYjIJuUHV+pwLDF7tRcJjZj2c2sef3a3zf8Yduv87yY6vOmtBuyvuwL2bcPZOnrFxlt6v9r4ssTtLcxbUF5/bxKkrnNlmAvpVVaLJVDL4AfQ13G0pfjtN3m7Vl/iuv1+u6oi3ourxf/nveVeXvLk7pSdQ2Pu8wb8ef4gOl+qTUamj9KvOzIpvQhqzJl6HoN8l2u9j+Bf4Sjl17BwAA
+— P1 turn 5 phase AddImpulse
+P1 places #88 (Command/Yellow/2) at bottom of Impulse
+  Phase2: P1 uses tech Left (BasicCommon)
+P1 discards #82
+P1 builds at G20 (available=8)
+  cursor=[0] #89 used by P1 (Execute)
+  → executing tech Left (BasicCommon)
+P1 discards #10
+P1 builds at G20 (available=7)
+  cursor=[1] #40 used by P1 (Command)
+  → command #40 (Transport 1 fleet(s) up to 1, 2 move(s))
+  → command: 2 legal origin(s) for fleet 1/1
+P1 moves ship N13 → N9
+  → activating #13 on N9 (+1 bonus gems from arriving transports)
+  → command #13 (ship 1 fleet(s) up to 2, 1 move(s))
+  → command: 3 legal origin(s) for fleet 1/1
+P1 moves ship G20 → G22
+P1 moves ship G20 → G22
+  cursor=[2] #91 used by P1 (Command)
+  → command #91 (ship 1 fleet(s) up to 1, 2 move(s))
+  → command: 2 legal origin(s) for fleet 1/1
+P1 moves ship N9 → N13
+  → activating #80 on N13 (+1 bonus gems from arriving transports)
+P1 drew #93 (Red/3) → hand
+P1 drew #109 (Blue/2) → hand
+  cursor=[3] #88 used by P1 (Command)
+  → command #88 (Transport 1 fleet(s) up to 2, 1 move(s))
+  → command: 2 legal origin(s) for fleet 1/1
+P1 moves ship N13 → N9
+  → activating #13 on N9 (+1 bonus gems from arriving transports)
+  → command #13 (ship 1 fleet(s) up to 2, 1 move(s))
+  → command: 2 legal origin(s) for fleet 1/1
+P1 moves ship N9 → N13
+P1 moves ship N9 → N13
+  → activating #80 on N13 (+2 bonus gems from arriving transports)
+P1 drew #85 (Red/1) → hand
+P1 drew #53 (Yellow/1) → discard (color Blue/Red)
+P1 drew #30 (Blue/1) → hand
+  Plan delayed by P1 (1 cards)
++1 prestige (SectorCoreGatesPatrolled) → P1 total 10
+impulse trim #89 (length now 3)
+P1 draws 2 (hand=6, deck=44)
+[state turn=5 active=2] H4sIAAAAAAAACqWV207bQBCG32Wu/wvPntd3EUiAeiCCqjdRVBl7IRaJTe0YhFDevdqcsFtMRXtne7+d+efoF/oemrasK0oZdB1CQalULJ1mDZous+fQnNRdtaZUgCbltF6WeRlaSmd01oRQPNMcdNI1TajW37qmolSDJvm6fAy729uL00XWBkppUhQXq4du2QYCXbRn2SpcPkbmNlu2AXRer8K0zO/b07oKlK6bLoD2N066pq0bShXoNOT3lM5YQQsYA04sjABreAt2EBJCw2gID04SOIbS0OBEQEFKsIdOYCEVDIOhFCRDOHgNAU4cfAJODJQDGygJThSEgHfwBsLCSVgDtnPQadnmWVNQOjMWzkJZOGgL4yEdtIdiMEM7GAkR1UqwgJVQBsZBengP6+EVPLSCSGAUVBTCsAouPkFLOD8/poPSmUrgGc7NQdeL8iEW5YUun6qYUAZ9KquCUqrqYpvtglKWG3yAEG8S/FdCvEncZesDIfQ/EmNe+E0b4v+VsvuQlzFiDvpaF+Eka4pdleLb1j7oeh3RlIr6qSJQZOKJ3eb5wIlXrnvoUSbpU3LUmlB9To1y0vQ5PeJVD7SZEYoT3cfseKi2z7kRc8r3KT/mdNvAx/Qmr1heN4EGhzxiQ4oBNpZ7OZDNcgRzgxLxO7kfpCvu3xFQD4rEZhR0g6rzOxUYRuxGwaFnP+7ZxJ7f/QF2Hb/v9qssP7TqtAnturwL+zLFDTZ5zMpldrMM23Y5z+IozXzcvh5OQybwAjYuvOkyqyid2WQO+lJWocmW0c8c9Dncril9OQziTdaW+Y+8Xq3qijagq/Ju8ed5V5U/uziwR32bGOl+9A4f45/sKDoG/5tmfdRsNbR+lfm/IpvQhqzJF6Ho98tmM9/8AgdQG5PBBwAA
+— P2 turn 5 phase AddImpulse
+P2 places #55 (Command/Yellow/3) at bottom of Impulse
+  Phase2: P2 uses tech Right (Researched)
+P2 drew #14 (Green/1) → hand
+P2 drew #52 (Blue/2) → discard (color Red/Green)
+  cursor=[0] #40 used by P2 (Command)
+  → command #40 (Transport 1 fleet(s) up to 1, 2 move(s))
+  → command: 2 legal origin(s) for fleet 1/1
+P2 moves ship N11 → N6
+  → activating #105 on N6 (+1 bonus gems from arriving transports)
+  → command #105 (ship 1 fleet(s) up to 1, 2 move(s))
+  → command: 4 legal origin(s) for fleet 1/1
+P2 moves ship N6 → N2
+P2 moves ship N2 → N6
+  cursor=[1] #91 used by P2 (Command)
+  → command #91 (ship 1 fleet(s) up to 1, 2 move(s))
+  → command: 4 legal origin(s) for fleet 1/1
+P2 moves ship N6 → N2
+P2 moves ship N2 → N6
+  cursor=[2] #88 used by P2 (Command)
+  → command #88 (Transport 1 fleet(s) up to 2, 1 move(s))
+  → command: 2 legal origin(s) for fleet 1/1
+P2 moves ship N6 → N11
+  → activating #32 on N11 (+1 bonus gems from arriving transports)
+P2 builds at G18 (available=4)
+  → no other Yellow sector with your transport — only home gets ships
+  cursor=[3] #55 used by P2 (Command)
+  → command #55 (ship 1 fleet(s) up to 2, 1 move(s))
+  → command: 4 legal origin(s) for fleet 1/1
+P2 moves ship N11 → N6
+  → activating #105 on N6 (+1 bonus gems from arriving transports)
+  → command #105 (ship 1 fleet(s) up to 1, 2 move(s))
+  → command: 4 legal origin(s) for fleet 1/1
+P2 explores N7: takes #77 (Red/1) into hand
+P2 places #75 (Yellow/3) face-up at N7
+P2 moves ship N6 → N7
+P2 moves ship N7 → N11
+  → activating #32 on N11 (+1 bonus gems from arriving transports)
+P2 builds at G18 (available=3)
+  → no other Yellow sector with your transport — only home gets ships
++1 prestige (SectorCoreGatesPatrolled) → P2 total 10
+impulse trim #40 (length now 3)
+P2 draws 2 (hand=4, deck=40)
+[state turn=6 active=1] H4sIAAAAAAAACqWVyU7cQBCG36XO/8HVe/uGQAKUhRFEuYxGkbEbsJixiT0GITTvHvVsjBU6iHCzXZ+r/q6tX+hn6Pq6bShn0FUIFeVSsXSaNWgyL55Dd9wOzZJyATqqJ+28LuvQUz6l0y6E6plmoOOh60Kz/DF0DeUGdFQu68ew+XvteHJX9IFyOqqq88XDMO8Dgc7702IRLh4jc1PM+wA6axdhUpf3/UnbBMqX3RBA2z+Oh65vO8oV6CSU95RPjQBreAt2EBJCw2gID84yOIbS0OBMQEFKsIfOYCEVDIOhFCRDOHgNAc4cfAbODJQDGygJzhSEgHfwBsLCSVgDtjPQSd2XRVdFDRbOQlk4aAvjIR20h2IwQzsYCWHAmQQLWAllYBykh/ewHl7BQyuIDEZBRSEMq+DiE7SE89ACKpvt80D51DOcg9Yz0NVd/RCr8UIXT80221/qpqKcmrZap7minOUKHyDEmwS/S4g3idtiuSOE/k8iFYXf9CE+r5Tdh6J8REcqSoqYgb63VTguumpT6fi2toGulhHNqWqfGgJFJlrsulY7Trxyw8MBZbJDSia9CXXIqSQnzSGnE1H1SJtJUJzpQ8wmMDuiXIJS/pDyqZDrEdgnN3vFyrYLNDJywocUIyyVeWlHmExgblQg/kfmR2mIqzsB6lGJ2CRBN6o523SrjU/skuA4sk9HNrHjN5fHpt+3vX5ZlLtGnXShX9a3YVumuAOPHot6XlzPw7pZzoo4SFMft7iH05AZvIB1G9cN5VMbd+q3ugldMY9xZqCv4WZJ+ctuDK+Lvi5/le1i0Ta0Al3Wt3d/24em/j3Ecd3rW8WTbgdv91G8J1ruRbOCtTDx1oh3zVbuZ8V2oQ9FV96F6rBvVqvZ6g/tZGOEBAgAAA==
+— P1 turn 6 phase AddImpulse
+P1 places #78 (Command/Green/1) at bottom of Impulse
+  Phase2: P1 uses tech Left (BasicCommon)
+P1 discards #92
+P1 explores N14: takes #35 (Yellow/1) into hand
+P1 places #109 (Blue/2) face-up at N14
+P1 moves ship N13 → N14
+P1 moves ship N13 → N14
+  → activating #109 on N14 (+2 bonus gem(s) from arriving transports)
+P1 builds at G27 (available=6)
+P1 builds at G27 (available=5)
+  cursor=[0] #91 used by P1 (Command)
+  → command #91 (ship 1 fleet(s) up to 1, 2 move(s))
+  → command: 3 legal origin(s) for fleet 1/1
+P1 moves ship N14 → N9
+  → activating #13 on N9 (+1 bonus gems from arriving transports)
+  → command #13 (ship 1 fleet(s) up to 2, 1 move(s))
+  → command: 4 legal origin(s) for fleet 1/1
+P1 moves ship N14 → N9
+  → activating #13 on N9 (+1 bonus gems from arriving transports)
+  → command #13 (ship 1 fleet(s) up to 2, 1 move(s))
+  → command: 3 legal origin(s) for fleet 1/1
+  → command: fleet 1/1 skipped
+  cursor=[1] #88 used by P1 (Command)
+  → command #88 (Transport 1 fleet(s) up to 2, 1 move(s))
+  → command: 1 legal origin(s) for fleet 1/1
+P1 moves ship N9 → N14
+P1 moves ship N9 → N14
+  → activating #109 on N14 (+2 bonus gems from arriving transports)
+P1 builds at G27 (available=4)
+P1 builds at G27 (available=3)
+  cursor=[2] #55 used by P1 (Command)
+  → command #55 (ship 1 fleet(s) up to 2, 1 move(s))
+  → command: 3 legal origin(s) for fleet 1/1
+P1 moves ship N14 → N9
+P1 moves ship N14 → N9
+  → activating #13 on N9 (+2 bonus gems from arriving transports)
+  → command #13 (ship 1 fleet(s) up to 2, 2 move(s), +1 boost)
+  → command: 3 legal origin(s) for fleet 1/1
+P1 moves ship N9 → N14
+P1 moves ship N9 → N14
+  → activating #109 on N14 (+2 bonus gems from arriving transports)
+P1 builds at G27 (available=2)
+P1 builds at G27 (available=1)
+  cursor=[3] #78 used by P1 (Command)
+  → command #78 (ship 1 fleet(s) up to 12, 1 move(s))
+  → command: 3 legal origin(s) for fleet 1/1
+  ⚔ Battle at G25: P1 (6 cruisers) attacks P2
+  ⚔ P2 reinforces with #14
+  ⚔ P2 reinforces with #107
+  ⚔ P2 reinforces with #77
+  ⚔ P2 reinforces with #66
+  ⚔ P1 reinforces with #93
+  ⚔ P1 reinforces with #85
+  ⚔ P1 reinforces with #30
+  ⚔ P1 reinforces with #35
+  ⚔ P2 BLUFF revealed #77 (Red/1) — returned to hand
+  ⚔ P2 BLUFF revealed #66 (Green/2) — returned to hand
+  ⚔ P1 BLUFF revealed #93 (Red/3) — returned to hand
+  ⚔ P1 BLUFF revealed #85 (Red/1) — returned to hand
+  ⚔ P1 BLUFF revealed #30 (Blue/1) — returned to hand
+  ⚔ P2 draws cruiser-card #62 (Blue/2)
+  ⚔ P2 draws cruiser-card #15 (Red/1)
+  ⚔ P1 draws cruiser-card #97 (Green/1)
+  ⚔ P1 draws cruiser-card #18 (Red/3)
+  ⚔ P1 draws cruiser-card #23 (Green/1)
+  ⚔ P1 draws cruiser-card #25 (Green/1)
+  ⚔ P1 draws cruiser-card #65 (Blue/3)
+  ⚔ P1 draws cruiser-card #29 (Red/1)
+  ⚔ Totals: P1=11 vs P2=5
+  ⚔ Winner: P1
+P2's ship at G25 destroyed (returned to pool)
+P2's ship at G25 destroyed (returned to pool)
+P1 moves ship G27 → G25
+P1 moves ship G27 → G25
+P1 moves ship G27 → G25
+P1 moves ship G27 → G25
+P1 moves ship G27 → G25
+P1 moves ship G27 → G25
++1 prestige (BattleWon) → P1 total 11
++2 prestige (ShipsDestroyed) → P1 total 13
+!! BATTLE RESULT @ G25
+
+Attacker: P1 (6 cruisers)
+  reinforcements: #35 (Yellow/1)
+  bluffs (returned): #93 (Red/3), #85 (Red/1), #30 (Blue/1)
+  cruiser draws:  #97 (Green/1), #18 (Red/3), #23 (Green/1), #25 (Green/1), #65 (Blue/3), #29 (Red/1)
+  total icons:    11
+
+Defender: P2
+  reinforcements: #14 (Green/1), #107 (Green/1)
+  bluffs (returned): #77 (Red/1), #66 (Green/2)
+  cruiser draws:  #62 (Blue/2), #15 (Red/1)
+  total icons:    5
+
+Winner: P1 (+1 prestige for the win, +1 per ship destroyed).
+Ships destroyed: 2.
+P1 prestige now 13.
+  plan #70 used by P1 (Command)
+  → command #70 (Cruiser 1 fleet(s) up to 1, 1 move(s))
+  → command: 2 legal origin(s) for fleet 1/1
+P1 moves ship G25 → G13
++3 prestige (SectorCoreGatesPatrolled) → P1 total 16
+impulse trim #91 (length now 3)
+P1 draws 2 (hand=5, deck=30)
+[state turn=6 active=2] H4sIAAAAAAAACs2VTU/jMBCG/8uc30PG386tAgnQflDBai9VtQqJgYg2YZMGhFD/+8qFlmYXC3W1h70l9mPPOzOv7Wf6Hrq+bhvKGXQZQkW5VCydZg2aLoqn0B21Q7OiXIAm9bRd1GUdespndNKFUD3RHHQ0dF1oVt+GrqHcgCblqn4IL6s3C6e3RR8op0lVnS3vh0UfCHTWnxTLcP4Qmeti0QfQabsM07q864/bJlC+6oYAel1xNHR921GuQMehvKN8pjQ0OBNQkBLsoTNYSAXDYCgFyRAOXkOAMwefgTMD5cAGSoIzBSHgHbyBsHAS1oDtHHRc92XRVZTPjIWzUBYO2sJ4SAftoRjM0A5GQhhwJsECVkIZGAfp4T2sh1fw0Aoig1FQUQjDKrj4BS3hPLSAyuAFpAYrcGbhLdhBSAgNoyE8jABr2Aye57uaUD5zDlrDujno8ra+j515pvPHJlaVQZ/qpqKcmrbalLyinNUaBxDiXYI/JMRBxJuOm2K1JcRhe4j39mB3UJRDdKSi/KUOlh/q0P8NMQd9batwVHTVi+Pi3yYL0OUqojlV7WNDoMjEGbvxzJYTb9xwv0eZbJ+Syd2E2udUkpNmn9OJqHqkzSQozvQ+ZhOYHVEuQSm/T/lUyI0pdsXN3rCy7QKNJjmxhxQjLFV5aUeYTGBu1CBWyVqN8ouvSaJDetQhNknQjVrONu20ccIuCY4j+3RkEw3/8p692P3V6hdFufXptAv9qr4JrynEq3jyUNSL4moRx0CnRTxHMy/hNGR8ijK4eJdPF0VD+WwO+lI3oSsWMcQc9Dlcryh/3h7Aq6Kvyx9lu1y2Da1BF/XN7Z/zQ1P/HOJB3UlbxyRfj9x2MD7Jb3qjq37Tq3d6rYUx/05lF/pQdOVtqPatt17P178AZsZT4osIAAA=
+— P2 turn 6 phase AddImpulse
+P2 places #77 (Research/Red/1) at bottom of Impulse
+  Phase2: P2 uses tech Left (BasicCommon)
+P2 discards #66
+P2 builds at G31 (available=4)
+  cursor=[0] #88 used by P2 (Command)
+  → command #88 (Transport 1 fleet(s) up to 2, 1 move(s))
+  → command: 2 legal origin(s) for fleet 1/1
+P2 moves ship N11 → N6
+  → activating #105 on N6 (+1 bonus gems from arriving transports)
+  → command #105 (ship 1 fleet(s) up to 1, 2 move(s))
+  → command: 4 legal origin(s) for fleet 1/1
+P2 explores N3: takes #24 (Red/2) into hand
+P2 places #24 (Red/2) face-up at N3
+P2 moves ship N6 → N3
+P2 moves ship N3 → N6
+  cursor=[1] #55 used by P2 (Command)
+  → command #55 (ship 1 fleet(s) up to 2, 1 move(s))
+  → command: 4 legal origin(s) for fleet 1/1
+P2 moves ship N6 → N7
+  → activating #75 on N7 (+1 bonus gems from arriving transports)
+  → command #75 (ship 2 fleet(s) up to 12, 1 move(s))
+  → command: 4 legal origin(s) for fleet 1/2
+P2 moves ship N12 → N7
+P2 moves ship N12 → N7
+P2 moves ship G18 → G19
+  → activating #75 on N7 (+2 bonus gems from arriving transports)
+  → command #75 (ship 3 fleet(s) up to 12, 1 move(s), +1 boost)
+  → command: 5 legal origin(s) for fleet 1/3
+P2 moves ship G19 → G15
+P2 moves ship N12 → N7
+P2 moves ship G18 → G19
+  → activating #75 on N7 (+1 bonus gems from arriving transports)
+  → command #75 (ship 2 fleet(s) up to 12, 1 move(s))
+  → command: 5 legal origin(s) for fleet 1/2
+P2 moves ship G19 → G15
+P2 moves ship N7 → N6
+P2 moves ship N7 → N6
+P2 moves ship N7 → N6
+  → activating #105 on N6 (+3 bonus gems from arriving transports)
+  → command #105 (ship 1 fleet(s) up to 2, 2 move(s), +1 boost)
+  → command: 5 legal origin(s) for fleet 1/1
+P2 moves ship N6 → N3
+P2 moves ship N6 → N3
+P2 moves ship N3 → N7
+P2 moves ship N3 → N7
+  → activate #75: max chain depth (4) reached; skip
+  cursor=[2] #78 used by P2 (Command)
+  → command #78 (ship 1 fleet(s) up to 12, 1 move(s))
+  → command: 5 legal origin(s) for fleet 1/1
+P2 moves ship N6 → N7
+  → activating #75 on N7 (+1 bonus gems from arriving transports)
+  → command #75 (ship 2 fleet(s) up to 12, 1 move(s))
+  → command: 4 legal origin(s) for fleet 1/2
+P2 moves ship N7 → N6
+P2 moves ship N7 → N6
+P2 moves ship N7 → N6
+P2 moves ship N7 → N6
+P2 moves ship G15 → G17
+  → activating #105 on N6 (+4 bonus gems from arriving transports)
+  → command #105 (ship 1 fleet(s) up to 3, 2 move(s), +2 boost)
+  → command: 5 legal origin(s) for fleet 1/1
+P2 moves ship N6 → N3
+P2 moves ship N6 → N3
+P2 moves ship N3 → N7
+P2 moves ship N3 → N7
+  → activating #75 on N7 (+2 bonus gems from arriving transports)
+  → command #75 (ship 3 fleet(s) up to 12, 1 move(s), +1 boost)
+  → command: 6 legal origin(s) for fleet 1/3
+P2 moves ship N6 → N7
+P2 moves ship N6 → N7
+P2 moves ship G15 → G19
+P2 moves ship G31 → G18
+  → activating #75 on N7 (+2 bonus gems from arriving transports)
+  → command #75 (ship 3 fleet(s) up to 12, 1 move(s), +1 boost)
+  → command: 4 legal origin(s) for fleet 1/3
+P2 moves ship N7 → N6
+P2 moves ship N7 → N6
+P2 moves ship N7 → N6
+P2 moves ship G19 → G15
+P2 moves ship G18 → G15
+  → activate #105: max chain depth (4) reached; skip
+  cursor=[3] #77 used by P2 (Research)
++1 prestige (SectorCoreGatesPatrolled) → P2 total 11
+impulse trim #88 (length now 3)
+P2 draws 2 (hand=2, deck=28)
+[state turn=7 active=1] H4sIAAAAAAAACs2Vy07jQBBF/6XWd+Hqd3uHQAI0DyIYzSaKRsZuiEViM3YMQij/Puo8wJ6JhSKxmJ3tPl11q+q2+5V+hqYt64pSBt2EUFAqFUunWYMmi+wlNKd1V60oFaCTclIvyrwMLaVTOm9CKF5oBjrtmiZUqx9dU1FqQSf5qnwK292bwJN51gZK6aQoLpeP3aINBLpsz7NluHqKzF22aAPool6GSZk/tGd1FShdNV0A7Xacdk1bN5Qq0FnIHyidciKgICXYQyewkAqGwVAKkiEcvIYAJw4+AScGyoENlAQnCkLAO3gDYeEkrAHbGeisbPOsKSidGgtnoSwctIXxkA7aQzGYoR2MhDDgRIIFrIQyMA7Sw3tYD6/goRVEAqOgohCGVXDxCVrCeWgBlcALSA1W4MTCW7CDkBAaRkN4GAHWsAk8wxg4N3trCqVTrWEdbJR+My8f42he6eq52rX+S1kVlFJVF5ueF5SyWuMIQhwizKcC7yLus9UeEOKjEPYg0AvB9qgkx8joZ9FHEQezsPxQh/4PicPVuvUM9L0uwmnWFFs/xrfNGuhmFdGUivq5IlBkNsPkGHfPiXeue+xRJulTcoQSqk+p0ZzS9Dk9Ek0PlJkRihPdx+wIZgeUG6GU71N+LOXGNG+tTd6xvG4CDRZ5JIYUA2ys79IOsLHGu8F4WI32alBfvGpGJqQHE2IzCrrByNmO+2xYsBsFh5n9eGYT7b697LZm3xn9Osv3Lp00oV2V92FXQvxNnzxl5SK7XcRvoIssnqKpl3AaMl5WCRxv41aUTmegb2UVmmwRU8xAX8PditLX/fG7zdoy/5XXy2Vd0Rp0Xd7P/13vqvJ3F4/pm7R1LHJ34PYfxUBvNM5fetWbXqWhP09kE9qQNfk8FH3nrdez9R+bsBX6pwgAAA==
+— P1 turn 7 phase AddImpulse
+P1 places #81 (Command/Yellow/1) at bottom of Impulse
+  Phase2: P1 uses tech Left (BasicCommon)
+P1 discards #93
+  cursor=[0] #55 used by P1 (Command)
+  → command #55 (ship 1 fleet(s) up to 2, 1 move(s))
+  → command: 4 legal origin(s) for fleet 1/1
+P1 moves ship N14 → N13
+P1 moves ship N14 → N13
+  → activating #80 on N13 (+2 bonus gems from arriving transports)
+P1 drew #102 (Red/1) → hand
+P1 drew #4 (Yellow/2) → discard (color Blue/Red)
+P1 drew #33 (Blue/3) → hand
+  cursor=[1] #78 used by P1 (Command)
+  → command #78 (ship 1 fleet(s) up to 12, 1 move(s))
+  → command: 4 legal origin(s) for fleet 1/1
+  ⚔ Battle at G17: P1 (5 cruisers) attacks P2
+  ⚔ P2 reinforces with #45
+  ⚔ P2 reinforces with #5
+  ⚔ P1 reinforces with #85
+  ⚔ P1 reinforces with #30
+  ⚔ P1 reinforces with #100
+  ⚔ P1 reinforces with #102
+  ⚔ P1 reinforces with #33
+  ⚔ P2 BLUFF revealed #45 (Red/3) — returned to hand
+  ⚔ P2 BLUFF revealed #5 (Green/3) — returned to hand
+  ⚔ P1 BLUFF revealed #30 (Blue/1) — returned to hand
+  ⚔ P1 BLUFF revealed #100 (Yellow/2) — returned to hand
+  ⚔ P1 BLUFF revealed #33 (Blue/3) — returned to hand
+  ⚔ P2 draws cruiser-card #19 (Red/2)
+  ⚔ P1 draws cruiser-card #50 (Green/2)
+  ⚔ P1 draws cruiser-card #7 (Red/2)
+  ⚔ P1 draws cruiser-card #34 (Green/2)
+  ⚔ P1 draws cruiser-card #61 (Red/2)
+  ⚔ P1 draws cruiser-card #1 (Green/1)
+  ⚔ Totals: P1=11 vs P2=2
+  ⚔ Winner: P1
+P2's ship at G17 destroyed (returned to pool)
+P1 moves ship G25 → G17
+P1 moves ship G25 → G17
+P1 moves ship G25 → G17
+P1 moves ship G25 → G17
+P1 moves ship G25 → G17
++1 prestige (BattleWon) → P1 total 17
++1 prestige (ShipsDestroyed) → P1 total 18
+!! BATTLE RESULT @ G17
+
+Attacker: P1 (5 cruisers)
+  reinforcements: #85 (Red/1), #102 (Red/1)
+  bluffs (returned): #30 (Blue/1), #100 (Yellow/2), #33 (Blue/3)
+  cruiser draws:  #50 (Green/2), #7 (Red/2), #34 (Green/2), #61 (Red/2), #1 (Green/1)
+  total icons:    11
+
+Defender: P2
+  reinforcements: (none)
+  bluffs (returned): #45 (Red/3), #5 (Green/3)
+  cruiser draws:  #19 (Red/2)
+  total icons:    2
+
+Winner: P1 (+1 prestige for the win, +1 per ship destroyed).
+Ships destroyed: 1.
+P1 prestige now 18.
+  cursor=[2] #77 used by P1 (Research)
+P1 researches #30 into slot Right (replaces Basic Unique (Herculese) — discarded permanently)
+  cursor=[3] #81 used by P1 (Command)
+  → command #81 (Transport 1 fleet(s) up to 1, 1 move(s))
+  → command: 1 legal origin(s) for fleet 1/1
+P1 moves ship N13 → N9
+  → activating #13 on N9 (+1 bonus gems from arriving transports)
+  → command #13 (ship 1 fleet(s) up to 2, 1 move(s))
+  → command: 5 legal origin(s) for fleet 1/1
+  ⚔ Battle at G15: P1 (1 cruisers) attacks P2
+  ⚔ P2 reinforces with #5
+  ⚔ P2 reinforces with #45
+  ⚔ P1 reinforces with #100
+  ⚔ P1 reinforces with #33
+  ⚔ P2 BLUFF revealed #5 (Green/3) — returned to hand
+  ⚔ P2 BLUFF revealed #45 (Red/3) — returned to hand
+  ⚔ P1 BLUFF revealed #100 (Yellow/2) — returned to hand
+  ⚔ P1 BLUFF revealed #33 (Blue/3) — returned to hand
+  ⚔ P2 draws cruiser-card #44 (Yellow/1)
+  ⚔ P2 draws cruiser-card #31 (Yellow/1)
+  ⚔ P1 draws cruiser-card #28 (Blue/1)
+  ⚔ Totals: P1=1 vs P2=2
+  ⚔ Winner: P2
+P1's ship at G17 destroyed (returned to pool)
++1 prestige (BattleWon) → P2 total 12
++1 prestige (ShipsDestroyed) → P2 total 13
+!! BATTLE RESULT @ G15
+
+Attacker: P1 (1 cruiser)
+  reinforcements: (none)
+  bluffs (returned): #100 (Yellow/2), #33 (Blue/3)
+  cruiser draws:  #28 (Blue/1)
+  total icons:    1
+
+Defender: P2
+  reinforcements: (none)
+  bluffs (returned): #5 (Green/3), #45 (Red/3)
+  cruiser draws:  #44 (Yellow/1), #31 (Yellow/1)
+  total icons:    2
+
+Winner: P2 (+1 prestige for the win, +1 per ship destroyed).
+Ships destroyed: 1.
+P2 prestige now 13.
++3 prestige (SectorCoreGatesPatrolled) → P1 total 21
+=== P1 wins (prestige 21) ===
